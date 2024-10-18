@@ -31,7 +31,7 @@
 				<div class="row">
 					<div class="col-xs-4 col-sm-4 col-md-4">
 						<ul class="list-unstyled quick-links">
-							<h1 style="color: white; ">| Quick links</h1>
+							<h2 style="color: white; padding-left:20px; margin-bottom:35px;  ">| Quick links</h2>
 							<?php
 							$categories = get_categories(); // Lấy danh sách danh mục
 							foreach ($categories as $category) {
@@ -42,7 +42,7 @@
 					</div>
 					<div class="col-xs-4 col-sm-4 col-md-4">
 						<ul class="list-unstyled quick-links">
-							<h1 style="color: white; ">| Quick links</h1>
+							<h2 style="color: white; padding-left:20px; margin-bottom:35px;  ">| Quick links</h2>
 
 							<?php
 							$categories = get_categories(); // Lấy danh sách danh mục
@@ -54,7 +54,7 @@
 					</div>
 					<div class="col-xs-4 col-sm-4 col-md-4">
 						<ul class="list-unstyled quick-links">
-							<h1 style="color: white; ">| Quick links</h1>
+							<h2 style="color: white; padding-left:20px; margin-bottom:35px;  ">| Quick links</h2>
 
 							<?php
 							$categories = get_categories(); // Lấy danh sách danh mục
