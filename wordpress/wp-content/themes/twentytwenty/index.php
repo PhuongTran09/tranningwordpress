@@ -82,6 +82,7 @@ get_header();
 	if ( have_posts() ) {
 
 		$i = 0;
+		
 
 		while ( have_posts() ) {
 			++$i;
